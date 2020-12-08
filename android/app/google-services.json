@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40950592982",
+    "project_id": "firestore-7e785",
+    "storage_bucket": "firestore-7e785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40950592982:android:90eb8a545084a368be6077",
+        "android_client_info": {
+          "package_name": "in.oceanacademy.phone_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40950592982-iik6vpbm2gfs1foggajeof7d650q099i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2zPXihMK6CAvbHc2UfhYCLBonXsML-3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40950592982-iik6vpbm2gfs1foggajeof7d650q099i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
